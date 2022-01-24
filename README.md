@@ -12,6 +12,7 @@
 <br />
 
 ### 🔧 Languages and Tools:
+[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 
@@ -23,7 +24,7 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=irem6142&show_icons=true&theme=radical)
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irem6142&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=irem6142&theme=<THEME_NAME>" />
+
 
 
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
