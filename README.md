@@ -14,7 +14,7 @@
 
 ### 🔧 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FDosya%3AJava_Logo.svg&psig=AOvVaw1ajFaKV0g5X5y4RYlw8Tid&ust=1643143318981000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCP-oGgy_UCFQAAAAAdAAAAABAD "/>
+img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 
 <br />
