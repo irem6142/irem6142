@@ -16,10 +16,10 @@
 <br />
 ### 🔧 Languages and Tools:
 ***
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img     align="left"alt="Java"width="23px"src="https://camo.githubusercontent.com/6c2b21b4258502d9e31fd592e9bfc243a8b4f4f0338c6121d4cd8ddbc23cffee/68747470733a2f2f7777772e6c6f676f6c796    e782e636f6d2f696d616765732f6c6f676f6c796e782f34302f34303730616232636661616161323066303537613731396631383035643835332e706e67"/>
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left"alt="Java"width="30px"src= " https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img src="https://img.shields.io/badge/Go-F7DF1E?style=for-the-badge&logo=Go&logoColor=blue"></img>
 
 <br />
