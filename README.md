@@ -12,6 +12,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="HackerRank" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/HackerRank.svg" />][HackerRank]
 <br />
 <br />
 ### 🔧 Languages and Tools:
@@ -33,6 +34,7 @@
 
 
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
+[HackerRank]:https://www.hackerrank.com/iremuslu1453
 [gmail]: mailto:iremuslu1453@gmail.com
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
