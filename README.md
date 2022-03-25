@@ -1,7 +1,6 @@
 ## Hi welcome to my github profile👋
 
-<img align="right" alt="Coding" width="400"  src="![WhatsApp-Video-2022-03-25-at-18 43 14](https://user-images.githubusercontent.com/83772404/160154881-3ae6cb91-2a5c-442b-85f9-5caedf0fce4a.gif)
-">
+<img align="right" alt="Coding" width="400"  src="![WhatsApp-Video-2022-03-25-at-18 43 14](https://user-images.githubusercontent.com/83772404/160155103-cc074952-1e7c-402b-95f1-8fc731e180e0.gif)">
   👩‍💻 I'm a software engineering student at Karadeniz Techncial University.
    <br />
   🔭 I’m currently working on programming
