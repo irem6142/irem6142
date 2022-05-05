@@ -46,7 +46,7 @@
 
 
 
-<a href="https://www.flagcounter.me/details/cOw"><img src="https://www.flagcounter.me/cOw/" alt="Flag Counter"></a>
+[URL=https://www.flagcounter.me/details/cOx][IMG]https://www.flagcounter.me/cOx/[/IMG][/URL]
 
 
 
