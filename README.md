@@ -44,16 +44,9 @@
 
 
 
-<img align="center" src="https://www.flagcounter.me/cOv/" /><a href="https://info.flagcounter.com/AyNK"></a>
 
 
-
-
-
-
-
-
-
+<a href="https://www.flagcounter.me/details/cOw"><img src="https://www.flagcounter.me/cOw/" alt="Flag Counter"></a>
 
 
 
