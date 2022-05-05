@@ -41,10 +41,10 @@
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
 
-<a href="https://www.flagcounter.me/details/cOv"><img align="center" src="https://www.flagcounter.me/cOv/" alt="Flag Counter"></a>
 
 
 
+<img align="center" src="https://www.flagcounter.me/cOv/" /><a href="https://info.flagcounter.com/AyNK"></a>
 
 
 
