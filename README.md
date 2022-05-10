@@ -44,9 +44,6 @@
 
 
 
-<a href="https://www.flagcounter.me/details/cOA"><img align="center" src="https://www.flagcounter.me/cOA/" alt="Flag Counter"></a>
-
-
 
 
 
