@@ -33,14 +33,14 @@
 ***
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irem6142&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
 
+<br /><br /><br /><br /><br />
 
 
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
 [gmail]: mailto:iremuslu1453@gmail.com
-<br /><br /><br /><br />
+
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
 
