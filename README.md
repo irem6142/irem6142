@@ -41,6 +41,7 @@
 
 [gmail]: mailto:iremuslu1453@gmail.com
 <br />
+***
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
