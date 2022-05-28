@@ -40,7 +40,7 @@
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
 [gmail]: mailto:iremuslu1453@gmail.com
-
+### Watch my contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
 
