@@ -42,9 +42,10 @@
 [gmail]: mailto:iremuslu1453@gmail.com
 
 <br /> <br /> <br />
-***
+
 
 ### Watch my contribution graph get eaten by the snake 🐍
+***
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
 
