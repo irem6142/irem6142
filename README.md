@@ -48,6 +48,10 @@
 ***
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
+<br /> <br /> <br />
+ Visitor count
+ ***
+<img src="https://profile-counter.glitch.me/irem6142/count.svg" />
 
 
 
