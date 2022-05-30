@@ -5,7 +5,7 @@
    <br />
   🔭 I’m currently working on programming
  
- <br />
+ <br /><br />
  
 
 ## 📩 Connect with me:
@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/irem42.js/" target="_blank" title = "instagram" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="24" width="24" /></a>
 <br />
 <br />
+
 
 ###  🔧 Languages and Tools:
 ***
@@ -27,28 +28,28 @@
 <img src="https://img.shields.io/badge/Go-F7DF1E?style=for-the-badge&logo=Go&logoColor=blue"></img>
 
 
-<br />
+<br /><br />
 
 ### GitHub Analytics 📊
 ***
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irem6142&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
 [gmail]: mailto:iremuslu1453@gmail.com
 
-<br /> <br /> <br />
+<br /> <br />
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ***
 
 ![snake gif](https://github.com/irem6142/irem6142/blob/output/github-contribution-grid-snake.gif)
-<br /> <br /> <br />
+<br /> <br /> 
  ### Visitor count
  ***
 <img src="https://profile-counter.glitch.me/irem6142/count.svg" />
