@@ -38,11 +38,8 @@
 <br /><br />
 
 
-[linkedin]: https://linkedin.com/in/irem-u-5b05381b9
-
-[gmail]: mailto:iremuslu1453@gmail.com
-
 <br /> <br />
+
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
@@ -55,7 +52,9 @@
 <img src="https://profile-counter.glitch.me/irem6142/count.svg" />
 
 
+[linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
+[gmail]: mailto:iremuslu1453@gmail.com
 
 
 
