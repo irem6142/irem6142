@@ -36,7 +36,7 @@
 
 ### GitHub Analytics 📊
 ***
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=irem6142z&show_icons=true&theme=gradient)
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irem6142&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
 <br /><br /><br /> <br /><br /> <br /><br /> <br /><br /> <br />
