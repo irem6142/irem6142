@@ -6,6 +6,7 @@
   🔭 I’m currently working on programming
  
  <br /><br />
+ <br /><br /> <br />
  
 
 ## 📩 Connect with me:
@@ -15,6 +16,7 @@
 
 <br />
 <br />
+<br /><br /> <br />
 
 
 ###  🔧 Languages and Tools:
@@ -32,14 +34,15 @@
 
 
 
-<br /><br />
+<br /><br /><br /><br /> <br />
 
 ### GitHub Analytics 📊
 ***
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=irem6142&show_icons=true&theme=gradient)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=irem6142&show_icons=true&theme=radical)
+
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irem6142&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
-<br /><br /><br /> <br /><br /> <br /><br /> <br /><br /> <br />
+<br /><br /><br /> <br /><br /> <br /><br /> <br />
 
 
 
