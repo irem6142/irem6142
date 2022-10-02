@@ -6,7 +6,7 @@
   🔭 I’m currently working on programming
  
  <br /><br />
- <br /><br /> <br />
+ <br />
  
 
 ## 📩 Connect with me:
@@ -16,7 +16,7 @@
 
 <br />
 <br />
-<br /><br /> <br />
+<br />
 
 
 ###  🔧 Languages and Tools:
@@ -34,7 +34,7 @@
 
 
 
-<br /><br /><br /><br /> <br />
+<br /><br /><br /><br /> 
 
 ### GitHub Analytics 📊
 ***
