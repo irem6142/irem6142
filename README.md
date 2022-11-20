@@ -13,6 +13,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://miro.medium.com/max/1200/1*jfdwtvU6V6g99q3G7gq7dQ.png" />][medium]
 
 <br />
 <br />
@@ -62,6 +63,7 @@
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
 [gmail]: mailto:iremuslu1453@gmail.com
+[medium]: https://medium.com/@iremuslu1453
 
 
 
