@@ -11,7 +11,7 @@
 
 ## 📩 Connect with me:
 
-[<img align="left" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left"  width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://miro.medium.com/max/1200/1*jfdwtvU6V6g99q3G7gq7dQ.png" />][medium]
 [<img align="left" height="24" width="24" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" />][hackerRank]
