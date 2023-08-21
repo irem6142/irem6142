@@ -27,12 +27,10 @@
 <img align="left" alt="Numpy" width="30px" src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" />
 <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrodtlhYA0bpaoMePSLQD3WGgrto6nyZURPw&usqp=CAU"/>
-<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="c" width="30px" src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" />
 <img align="left" alt="c++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
 
 
 
