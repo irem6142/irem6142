@@ -24,7 +24,7 @@
 ###  🔧 Languages and Tools:
 ***
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="jupyter" width="30px" src="https://www.pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg" />
+<img align="left" alt="jupyter" width="30px" src="https://miro.medium.com/v2/resize:fit:696/1*tWMxl4QkNpw_Biu3zY2KYQ.png" />
 <img align="left" alt="Numpy" width="30px" src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" />
 <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrodtlhYA0bpaoMePSLQD3WGgrto6nyZURPw&usqp=CAU"/>
