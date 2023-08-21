@@ -24,6 +24,8 @@
 ###  🔧 Languages and Tools:
 ***
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Numpy" width="30px" src="![image](https://github.com/irem6142/irem6142/assets/83772404/1016a85c-c57a-459f-b575-350103a4f9f3)
+" />
 <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrodtlhYA0bpaoMePSLQD3WGgrto6nyZURPw&usqp=CAU"/>
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
