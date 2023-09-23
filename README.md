@@ -67,7 +67,7 @@
 [linkedin]: https://linkedin.com/in/irem-u-5b05381b9
 
 [gmail]: mailto:iremuslu1453@gmail.com
-[medium]: https://medium.com/@iremuslu1453
+[medium]: https://medium.com/@irem42
 [hackerRank]:https://www.hackerrank.com/iremuslu1453
 
 
