@@ -29,8 +29,7 @@
 <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrodtlhYA0bpaoMePSLQD3WGgrto6nyZURPw&usqp=CAU"/>
 <img align="left" alt="c" width="30px" src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" />
-<img align="left" alt="react" width="30px" src="![image](https://github.com/irem6142/irem6142/assets/83772404/0baed115-4a3d-4e11-a5d1-cf21087dd40a)
-"/>
+<img align="left" alt="react" width="30px" src="![image](https://github.com/irem6142/irem6142/assets/83772404/f67c705b-0bea-4003-8a45-d3a31631ac52)"/>
 <img align="left" alt="c++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
 <img align="left" alt="js" width="30px" src="https://yt3.googleusercontent.com/ytc/AL5GRJU2x0Oc4N3IUl-rvNGk3qqbXNvRt7AVghPBwSP7IA=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
