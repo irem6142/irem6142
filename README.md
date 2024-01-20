@@ -32,7 +32,7 @@
 <img align="left" alt="c++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
 <img align="left" alt="js" width="30px" src="https://yt3.googleusercontent.com/ytc/AL5GRJU2x0Oc4N3IUl-rvNGk3qqbXNvRt7AVghPBwSP7IA=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="tensorflow" width="30px" src="https://camo.githubusercontent.com/66b146c83742ee8cac2b72975c83cd50bcb23a73a5e96ffc21f2482970474157/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f3230303070782d54656e736f72666c6f775f6c6f676f2e7376672e706e67" />
+
 
 
 
