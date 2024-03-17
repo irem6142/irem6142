@@ -27,9 +27,7 @@
 <img align="left" alt="jupyter" width="30px" src="https://miro.medium.com/v2/resize:fit:696/1*tWMxl4QkNpw_Biu3zY2KYQ.png" />
 <img align="left" alt="Numpy" width="30px" src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" />
 <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrodtlhYA0bpaoMePSLQD3WGgrto6nyZURPw&usqp=CAU"/>
-<img align="left" alt="c" width="30px" src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" />
-<img align="left" alt="c++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
+<img align="left" alt="linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png"/>
 <img align="left" alt="js" width="30px" src="https://yt3.googleusercontent.com/ytc/AL5GRJU2x0Oc4N3IUl-rvNGk3qqbXNvRt7AVghPBwSP7IA=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="50px" src="https://www.1min30.com/wp-content/uploads/2018/04/Logo-Docker.jpg" />
