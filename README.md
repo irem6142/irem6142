@@ -27,7 +27,7 @@
     <img src="https://th.bing.com/th/id/OIP.Y1H8LQMqfoBLbYaT6RDx9QHaEV?rs=1&pid=ImgDetMain" alt="Streamlit" width="80"/>
 </a>
 <a href="https://streamlit.io](https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="80"/>
 </a>
 
 
