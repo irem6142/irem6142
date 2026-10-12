@@ -50,7 +50,7 @@
 <br /> <br />
  ### Visitor count
  ***
-<img src="https://profile-counter.glitch.me/irem6142/count.svg"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=irem6142&color=blue)
 
 
 
