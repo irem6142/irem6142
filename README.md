@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/irem-u-5b05381b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/irem-u-5b05381b9" height="30" width="40" /></a>
 <a href="https://medium.com/@irem42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@irem42" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/iremuslu1453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/iremuslu1453" height="30" width="40" /></a>
 </p>
@@ -51,7 +50,7 @@
 <br /> <br />
  ### Visitor count
  ***
-<img src="https://profile-counter.glitch.me/irem6142/count.svg" />
+<img src="https://profile-counter.glitch.me/irem6142/count.svg"/>
 
 
 
