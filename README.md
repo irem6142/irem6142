@@ -50,7 +50,7 @@
 <br /> <br />
  ### Visitor count
  ***
-![Visitor Count](https://komarev.com/ghpvc/?username=irem6142&color=blue)
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firem6142&count_bg=%2322c55e&title_bg=%23555555&v=1" alt="Visitor Count" />
 
 
 
