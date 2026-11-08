@@ -2,17 +2,20 @@
 
 ### 👋 Hi, Welcome to my GitHub Profile!
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWiaTEa/giphy.gif" width="280">
+
 
 <br>
 
-### 🐧 Linux + 🐍 Python = ❤️
-
-<img src="https://media.giphy.com/media/qgQUggACQBvCTiX16u/giphy.gif" width="320">
+🐧 **Linux** + 🐍 **Python** = ❤️
 
 <br>
 
+🔭  I’m currently working on programming.💻
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="380">
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
