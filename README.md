@@ -1,22 +1,33 @@
-## Hi welcome to my github profile👋
+<div align="center">
 
-<img align="right" alt="Coding" width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--EJm2Q_Yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif">
-  👩‍💻 I'm a software engineer
-   <br />    <br />    <br />
-  🔭 I’m currently working on programming
- 
- <br /><br />
- <br />
- 
+### 👋 Hi, Welcome to my GitHub Profile!
 
+<img src="https://media.giphy.com/media/M9gbBd9nbAaXq/giphy.gif" width="100">
 
+<br>
 
+<img src="https://media.giphy.com/media/iIqmM5tTjuepzIBoVX/giphy.gif" width="150">
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/L8K62lbQJ7kY8/giphy.gif" width="250">
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 
+<br><br>
 
+### 🐧 Linux + 🐍 Python = ❤️
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
 
+<br>
 
+💻 **Yazılımı seviyorum**  
+📚 Algoritma çalışıyorum  
+🛠️ AI’sız kod yazarak proje yapmaya çalışıyorum  
 
+<br>
 
+🔭 Currently improving myself with pure code & algorithms
 
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="380">
 
+</div>
