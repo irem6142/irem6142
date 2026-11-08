@@ -18,11 +18,7 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
 
-<br>
 
-💻 **Yazılımı seviyorum**  
-📚 Algoritma çalışıyorum  
-🛠️ AI’sız kod yazarak proje yapmaya çalışıyorum  
 
 <br>
 
