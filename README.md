@@ -1,8 +1,9 @@
 <div align="center">
 
 ### 👋 Hi, Welcome to my GitHub Profile!
+<br>
 
-
+<img src="https://media.giphy.com/media/qgQUggACQBvCTiX16u/giphy.gif" width="300">
 
 <br>
 
